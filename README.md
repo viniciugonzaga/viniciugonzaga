@@ -53,6 +53,11 @@
 <a href="http://ericellb.github.io/React-Discord-Clone" target="_blank">
         <img src="https://user-images.githubusercontent.com/56492600/114188523-e7e3e600-9922-11eb-9f62-07a8bfb8ae8c.gif" alt="React Discord Clone" style="max-width: 100%; height: auto;">
       </a>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <a href="https://github.com/rodydavis/gmail_clone#screenshots" target="_blank">
+        <img src="https://user-images.githubusercontent.com/32633899/175783046-14b62a7a-4b46-459b-9640-f550ddf5493c.png" alt="Gmail Clone" style="max-width: 100%; height: auto;">
+      </a>
 
 
 
