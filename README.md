@@ -4,12 +4,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvc3RoeHd1aHVoc3h6aGZvNDgyb3ZxNDE2ZHJiZmJvNGtuZmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif" height="210" style="flex: 1;" alt="GIF DNA">
 </div>
 
-<!-- Este é um exemplo básico de como simular a digitação -->
 
-<p align="center">
+
+<div>
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&center=true&vCenter=true&lines=Hello!+Welcome+to+my+profile!" alt="Welcome to my profile">
 </p>
-
+</div>
 
 
 
