@@ -48,25 +48,25 @@
   </table>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-    <div style="display: inline-block; padding: 10px;">
-        <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache NetBeans">
-    </div>
-    <div style="display: inline-block; padding: 10px;">
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
-    </div>
-    <div style="display: inline-block; padding: 10px;">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
-    </div>
-    <div style="display: inline-block; padding: 10px;">
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-    </div>
-    <div style="display: inline-block; padding: 10px;">
-        <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
-    </div>
-    <div style="display: inline-block; padding: 10px;">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    </div>
+<div>
+<a href="https://netbeans.apache.org/" target="_blank">
+            <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache NetBeans">
+        </a>
+    <a href="https://www.eclipse.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+        </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+        </a>
+     <a href="https://visualstudio.microsoft.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
+        </a>
+      <a href="https://www.gimp.org/" target="_blank">
+            <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
+        </a>
+      <a href="https://www.figma.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        </a>
 </div>
 
 
