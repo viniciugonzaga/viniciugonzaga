@@ -25,7 +25,7 @@
 }
 
 #animated-text::before {
-  content: "Sua frase aqui";
+  content: "hello! welcome to my profile";
 }
 </style>
 
