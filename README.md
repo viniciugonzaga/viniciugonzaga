@@ -72,6 +72,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
 
+ <img   src="https://www.tumblr.com/jpnostalgia/121856845349/jpnostalgia-jurassic-world-gifs-the-indominus?source=share" height="100px"  style="flex: 3;" alt="GIF T-Rex">
+
+<div>
+
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
   
 <div>
