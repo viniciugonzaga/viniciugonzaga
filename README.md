@@ -50,57 +50,20 @@
 </div>
 <hr style="border: 1px solid darkblue;">
 
-<table width="100%" style="background-color: #E0F7FA; border: 1px solid blue; padding: 10px;">
-  <tr>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://www.instagram.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://www.pinterest.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://www.reddit.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://www.tiktok.com/" target="_blank">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://twitter.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://discord.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://wa.me/" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <!-- Esta célula está vazia, você pode adicionar algo aqui se desejar -->
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+ <a href="https://www.javascript.com" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    </a>
+    <a href="https://openjdk.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </a>
+</div>
 
 
 
