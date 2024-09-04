@@ -72,7 +72,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
 
- <img   src="https://www.tumblr.com/jpnostalgia/121856845349/jpnostalgia-jurassic-world-gifs-the-indominus?source=share" height="100px"  style="flex: 3;" alt="GIF T-Rex">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://www.tumblr.com/jpnostalgia/121856845349/jpnostalgia-jurassic-world-gifs-the-indominus?source=share" height="160" style="flex: 1;" alt="GIF DNA">
 
 <div>
 
