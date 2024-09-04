@@ -46,8 +46,10 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center; padding-top: 20px;"
-       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+      <td colspan="2" style="text-align: center; padding-top: 20px;">
+        
+        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
       </td>
     </tr>
   </table>
