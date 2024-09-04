@@ -35,18 +35,22 @@
     <a href="https://openjdk.org/" target="_blank">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     </a>
-</div>
-<table width="100%" style="background-color: #E0F7FA; border: 1px solid blue; padding: 10px;">
-  <tr>
-    <td style="text-align: left; vertical-align: top;">
-      
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
-    </td>
-    <td style="text-align: right; vertical-align: top;">
-      <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="230px" height="auto">
-    </td>
-  </tr>
-</table>
+<div style="background-color: #E0F7FA; border: 1px solid blue; padding: 10px; margin-top: 20px;">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td style="text-align: left; vertical-align: top; padding: 10px;">
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+      </td>
+      <td style="text-align: right; vertical-align: top; padding: 10px;">
+        <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="230px" height="auto">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; padding-top: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciugonzaga&theme=blue-green" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
 </div>
 <hr style="border: 1px solid darkblue;">
 
