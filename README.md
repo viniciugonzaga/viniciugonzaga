@@ -91,7 +91,8 @@
   </tr>
   <tr>
     <td>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+      
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
     </td>
   </tr>
 </table>
