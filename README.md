@@ -47,7 +47,7 @@
     </tr>        
   </table>
 </div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=585DF7&width=435&lines=IDEs%3A;.....................%2C" alt="Typing SVG" /></a>
 <div>
 <a href="https://netbeans.apache.org/" target="_blank">
             <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache NetBeans">
