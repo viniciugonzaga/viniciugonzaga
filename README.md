@@ -47,8 +47,40 @@
     </tr>        
   </table>
 </div>
+
+<div style="text-align: center; margin-top: 20px;">
+    <div style="display: inline-block; padding: 10px;">
+        <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="Apache NetBeans">
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    </div>
+</div>
+
+
+
+  
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+</div>
+
+  
 <hr style="border: 1px solid darkblue;">
 
+<div>
 <<a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
