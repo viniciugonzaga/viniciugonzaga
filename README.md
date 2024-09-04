@@ -70,16 +70,16 @@
         </a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
 
-
+  <img src="https://starchart.cc/{viniciugonzaga}/{README.md}.svg" height="215" style="flex: 3;" alt="GIF T-Rex">
   
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
-</div>
-
-<img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="100px" style="flex: 3;" alt="GIF T-Rex">
   
+  
+ 
+
 <hr style="border: 1px solid darkblue;">
 
 <div>
