@@ -6,9 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1DA1F2&center=true&vCenter=true&lines=Hello!+Welcome+to+my+profile!" alt="Welcome to my profile">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5353EC&width=435&lines=hello!+welcome+to+my+profile;My+name+is+Vin%C3%ADcius+and+I'm+16+years+old!)](https://git.io/typing-svg)
 
   
 
