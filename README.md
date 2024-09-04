@@ -72,7 +72,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
 
-  <img src="https://starchart.cc/{viniciugonzaga}/{README.md}.svg" height="215" style="flex: 3;" alt="GIF T-Rex">
+[![trophy](https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
   
 <div>
   
