@@ -12,7 +12,26 @@
 </p> <div> 
 
 <div>
+# Meu Projeto
+
+Aqui está uma linha azul simples:
+
 <hr style="border: 1px solid blue;">
+
+<div style="text-align: center;">
+<a href="https://discord.com" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="mailto:youremail@example.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://wa.me/yourphonenumber" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+</div>
+
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
