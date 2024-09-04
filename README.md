@@ -39,15 +39,15 @@
   <table width="100%" style="border-collapse: collapse;">
     <tr>
       <td style="text-align: left; vertical-align: top; padding: 10px;">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciugonzaga&theme=blue-green" alt="Top Languages">
       </td>
       <td style="text-align: right; vertical-align: top; padding: 10px;">
         <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="230px" height="auto">
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="text-align: center; padding-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciugonzaga&theme=blue-green" alt="Top Languages">
+      <td colspan="2" style="text-align: center; padding-top: 20px;"
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
       </td>
     </tr>
   </table>
