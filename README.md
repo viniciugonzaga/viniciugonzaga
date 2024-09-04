@@ -43,7 +43,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=00000000&title_color=00aaff&text_color=00aaff)](https://github.com/viniciugonzaga/github-readme-stats)
       </td>
       <td style="text-align: right; vertical-align: top; padding: 10px;">
-        <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="230px" height="auto">
+        <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="180px" height="auto">
       </td>
     </tr>        
   </table>
