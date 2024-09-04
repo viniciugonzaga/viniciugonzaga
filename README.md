@@ -12,9 +12,9 @@
 </p> <div> 
 
 <div>
-# Meu Projeto
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15DCEC&width=435&lines=Learning+and+programming+languages%3A;.....................+%40_%40" alt="Typing SVG" /></a>
 
-Aqui está uma linha azul simples:
+<br>
 
 <hr style="border: 1px solid blue;">
 
