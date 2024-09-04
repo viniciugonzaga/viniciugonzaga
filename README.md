@@ -50,10 +50,9 @@
 </div>
 <hr style="border: 1px solid darkblue;">
 
-</a>
-    <a href="https://openjdk.org/" target="_blank">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    </a>
+<a href="http://ericellb.github.io/React-Discord-Clone" target="_blank">
+        <img src="https://user-images.githubusercontent.com/56492600/114188523-e7e3e600-9922-11eb-9f62-07a8bfb8ae8c.gif" alt="React Discord Clone" style="max-width: 100%; height: auto;">
+      </a>
 
 
 
