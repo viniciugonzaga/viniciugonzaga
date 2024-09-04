@@ -43,7 +43,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
     </td>
     <td style="text-align: right; vertical-align: top;">
-      <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="180px" height="auto">
+      <img src="https://media.giphy.com/media/YRkHw53ABubBEi58Oi/giphy.gif?cid=ecf05e47969m6fsuy1igz3q3qso46ujfg30inyl5jm8ajsts&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="230px" height="auto">
     </td>
   </tr>
 </table>
