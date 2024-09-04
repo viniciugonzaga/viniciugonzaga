@@ -7,8 +7,9 @@
 <!-- Este é um exemplo básico de como simular a digitação -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7C7CD&center=true&vCenter=true&lines=Hello!+Welcome+to+my+profile!" alt="Welcome to my profile">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&center=true&vCenter=true&lines=Hello!+Welcome+to+my+profile!" alt="Welcome to my profile">
 </p>
+
 
 
 
