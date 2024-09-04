@@ -77,7 +77,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
       </td>
       <td style="text-align: right; vertical-align: top; padding: 10px;">
-        <img src="https://64.media.tumblr.com/0367397c1d2255fe33af79ea1157dc5c/tumblr_nq5mzxEh0t1uucpo1o1_500.gifv" alt="GIF DNA" width="90%" height="90%">
+        <img src="https://64.media.tumblr.com/0367397c1d2255fe33af79ea1157dc5c/tumblr_nq5mzxEh0t1uucpo1o1_500.gifv" alt="GIF DNA" width="85%" height="85%">
       </td>
     </tr>        
   </table>
