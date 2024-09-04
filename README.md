@@ -6,8 +6,12 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5353EC&width=435&lines=hello!+welcome+to+my+profile;My+name+is+Vin%C3%ADcius+and+I'm+16+years+old!" alt="Typing SVG" /></a>
-  
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5353EC&width=435&lines=hello!+welcome+to+my+profile;My+name+is+Vin%C3%ADcius+and+I'm+16+years+old!" alt="Typing SVG" />
+    </a>
+</p>
+
 
 
 
