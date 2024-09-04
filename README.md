@@ -83,6 +83,18 @@
 
 </div>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://64.media.tumblr.com/0367397c1d2255fe33af79ea1157dc5c/tumblr_nq5mzxEh0t1uucpo1o1_500.gifv" alt="GIF DNA" width="320" height="270">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+    </td>
+  </tr>
+</table>
 
   
 <div>
