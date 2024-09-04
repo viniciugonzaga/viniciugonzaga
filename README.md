@@ -50,14 +50,54 @@
 </div>
 <hr style="border: 1px solid darkblue;">
 
-<a href="http://ericellb.github.io/React-Discord-Clone" target="_blank">
-        <img src="https://user-images.githubusercontent.com/56492600/114188523-e7e3e600-9922-11eb-9f62-07a8bfb8ae8c.gif" alt="React Discord Clone" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
-    <td style="text-align: center; padding: 10px;">
-      <a href="https://github.com/rodydavis/gmail_clone#screenshots" target="_blank">
-        <img src="https://user-images.githubusercontent.com/32633899/175783046-14b62a7a-4b46-459b-9640-f550ddf5493c.png" alt="Gmail Clone" style="max-width: 100%; height: auto;">
-      </a>
+<div style="text-align: center; margin-top: 20px;">
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://github.com/" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        </a>
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://www.instagram.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        </a>
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://www.pinterest.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
+        </a>
+    </div>
+</div>
+
+<div style="text-align: center; margin-top: 10px;">
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://www.reddit.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+        </a>
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://www.tiktok.com/" target="_blank">
+            <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+        </a>
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://twitter.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        </a>
+    </div>
+</div>
+
+<div style="text-align: center; margin-top: 10px;">
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://discord.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+    </div>
+    <div style="display: inline-block; padding: 10px;">
+        <a href="https://wa.me/" target="_blank">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+        </a>
+    </div>
+</div>
 
 
 
