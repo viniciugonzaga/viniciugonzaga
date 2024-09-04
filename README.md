@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvc3RoeHd1aHVoc3h6aGZvNDgyb3ZxNDE2ZHJiZmJvNGtuZmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif" height="150" style="flex: 1;" alt="GIF DNA">
-  <img src="https://media.giphy.com/media/1OIERpwgyx45y/giphy.gif?cid=ecf05e47r4gfpoen9mnsgioj5mkzs1gwhzw8firuyqyt823j&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="220" style="flex: 3;" alt="GIF T-Rex">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1razNjYmZ3Y3Bkc2puZWY4YWR6YWVqZnIwM2N1emxycTR3b2hsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbR6vHMdpuObe/giphy.gif" height="220" style="flex: 3;" alt="GIF T-Rex">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvc3RoeHd1aHVoc3h6aGZvNDgyb3ZxNDE2ZHJiZmJvNGtuZmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif" height="150" style="flex: 1;" alt="GIF DNA">
 </div>
 
