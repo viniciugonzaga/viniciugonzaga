@@ -70,7 +70,6 @@
         </a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
 
 <div style="display: flex; align-items: center;">
     <div>
@@ -78,7 +77,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
     </div>
     <div>
-        <img src="https://64.media.tumblr.com/0367397c1d2255fe33af79ea1157dc5c/tumblr_nq5mzxEh0t1uucpo1o1_500.gifv" alt="GIF DNA" width="100" height="100">
+        <img src="https://64.media.tumblr.com/0367397c1d2255fe33af79ea1157dc5c/tumblr_nq5mzxEh0t1uucpo1o1_500.gifv" alt="GIF DNA" width="400" height="400">
     </div>
 </div>
 
