@@ -72,10 +72,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://www.tumblr.com/jpnostalgia/121856845349/jpnostalgia-jurassic-world-gifs-the-indominus?source=share" height="160" style="flex: 1;" alt="GIF DNA">
-
-<div>
+<div style="display: flex; align-items: center;">
+    <div>
+      
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+    </div>
+    <div>
+        <img src="https://www.tumblr.com/jpnostalgia/121856845349/jpnostalgia-jurassic-world-gifs-the-indominus?source=share" alt="GIF DNA" width="100" height="100">
+    </div>
+</div>
 
 </div>
 
