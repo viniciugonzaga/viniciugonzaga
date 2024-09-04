@@ -47,12 +47,13 @@
     </td>
   </tr>
 </table>
-
-
-
 </div>
+<hr style="border: 1px solid darkblue;">
 
-
+</a>
+    <a href="https://openjdk.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    </a>
 
 
 
