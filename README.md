@@ -117,7 +117,10 @@
 </div>
 
 
-[![E-mail](https://img.shields.io/badge/-Meu%20E-mail-98FB98?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinigonzagap@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Meu%20E-mail-32CD32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinigonzagap@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/-Meu%20Instagram-32CD32?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vindinossauro/)
+
 
 
 
