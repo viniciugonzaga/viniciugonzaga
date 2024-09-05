@@ -137,7 +137,7 @@
 </div>
 
 <div>
-  <img src="https://i.pinimg.com/originals/e6/bf/86/e6bf86adca64f50b18df8707aa8e98cb.gif" height="215" style="flex: 3;" alt="GIF T-Rex">
+  <img src="https://i.pinimg.com/originals/e6/bf/86/e6bf86adca64f50b18df8707aa8e98cb.gif" width="100%" height="100%" style="flex: 3;" alt="GIF T-Rex">
 
 
   
