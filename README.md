@@ -128,19 +128,26 @@
     </a>
   </div>
 
-  <!-- Contribuições no GitHub -->
-  <div style="margin-bottom: 20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=daily+feats%3A;---------------" alt="Typing SVG">
-    </a>
-    <picture>
-
-<div>
-  <img src="https://i.pinimg.com/originals/e6/bf/86/e6bf86adca64f50b18df8707aa8e98cb.gif" width="840px" height="640px" style="flex: 3;" alt="GIF T-Rex">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=thanks+for+watching!;%2B_%2B" alt="Typing SVG" /></a>
-  
+  <!-- Seção de Contribuições no GitHub -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
+  </picture>
 </div>
+
+<!-- Seção de GIFs e Agradecimento -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.pinimg.com/originals/e6/bf/86/e6bf86adca64f50b18df8707aa8e98cb.gif" style="max-width: 100%; height: auto; margin-bottom: 20px;" alt="GIF T-Rex">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=thanks+for+watching!;%2B_%2B" alt="Typing SVG">
+  </a>
+</div>
+
+
+
 
 
 
