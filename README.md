@@ -118,7 +118,8 @@
 
 <div>
   
-![Snake animation](https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/joaoxaviersilva/joaoxaviersilva/output/github-contribution-grid-snake.svg)
+
 
 
   
