@@ -134,11 +134,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake.svg">
 </picture>
-
-
 </div>
 
+<div>
+  <img src="https://i.pinimg.com/originals/e6/bf/86/e6bf86adca64f50b18df8707aa8e98cb.gif" height="215" style="flex: 3;" alt="GIF T-Rex">
 
+
+  
+</div>
 
 
 
