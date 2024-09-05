@@ -117,7 +117,8 @@
 </div>
 
 
-[![E-mail](https://img.shields.io/badge/-Meu%20E-mail-32CD32?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vinigonzagap@gmail.com)
+
+[![Xbox](https://img.shields.io/badge/-Meu%20Xbox-32CD32?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/en-us/Profile?gamertag=vindinossauro)
 
 
 
