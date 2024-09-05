@@ -118,7 +118,12 @@
 
 <div>  
   
-![Snake animation](https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/main/output/github-contribution-grid-snake.svg)
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=tokyonight)
+
+## Animação da Cobra
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=viniciugonzaga)
+
 
 
   
