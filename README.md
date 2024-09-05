@@ -117,16 +117,7 @@
 </div>
 
 <div>
-<a href="https://discord.com/](https://starchart.cc/{vinciugonzaga}/{viniciugonzaga}.svg)" target="_blank">  
-
-  
 </div>
-
-
-
-
-
-[![Instagram](https://img.shields.io/badge/-Meu%20Instagram-32CD32?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vindinossauro/)
 
 
 
