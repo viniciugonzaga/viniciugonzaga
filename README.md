@@ -95,6 +95,45 @@
     </tr>
   </table
 
+<!-- Troféus -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=nord" alt="Trophy">
+    </a>
+  </div>
+
+  <!-- Links e redes sociais -->
+  <hr style="border: 1px solid darkblue; margin: 20px 0;">
+  <div style="margin-bottom: 20px;">
+    <a href="https://github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.instagram.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.pinterest.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
+    </a>
+    <a href="https://www.reddit.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+    </a>
+    <a href="https://www.tiktok.com/" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a>
+    <a href="https://twitter.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://discord.com/invite/uCxyKVnt" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+  </div>
+
+  <!-- Contribuições no GitHub -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=daily+feats%3A;---------------" alt="Typing SVG">
+    </a>
+    <picture>
 
 
 
