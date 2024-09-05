@@ -116,9 +116,13 @@
       </a>
 </div>
 
+<div>
+<a href="https://discord.com/](https://starchart.cc/{vinciugonzaga}/{viniciugonzaga}.svg)" target="_blank">  
+
+  
+</div>
 
 
-[![Xbox](https://img.shields.io/badge/-Meu%20Xbox-32CD32?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/en-us/Profile?gamertag=vindinossauro)
 
 
 
