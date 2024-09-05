@@ -119,6 +119,13 @@
 <div>    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=daily+feats%3A;---------------" alt="Typing SVG" /></a>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 </div>
 
 
