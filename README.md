@@ -116,15 +116,9 @@
       </a>
 </div>
 
-<div>  
-  
-
-## Animação da Cobra
+<div>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=daily+feats%3A;---------------" alt="Typing SVG" /></a>
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?username=viniciugonzaga)
-
-
-
-  
 </div>
 
 
