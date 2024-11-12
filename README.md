@@ -7,7 +7,7 @@
 
 </div>
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; margin-bottom: 20px; margin 0">
   <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="420" alt="GIF DNA">
 </div>
 
