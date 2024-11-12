@@ -3,12 +3,10 @@
 
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990a75b9-97e0-43f7-b245-3555bc9270a3/dfv8si9-bf235cb8-7aba-48d5-9a6c-5c53c94db9e2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5MGE3NWI5LTk3ZTAtNDNmNy1iMjQ1LTM1NTViYzkyNzBhM1wvZGZ2OHNpOS1iZjIzNWNiOC03YWJhLTQ4ZDUtOWE2Yy01YzUzYzk0ZGI5ZTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.A3VsJ-gpQHqt6hk0ScT1DK4344KcflXLpfGoocLh5j4" height="220vh" style="flex: 3;" alt="GIF T-Rex">
-   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990a75b9-97e0-43f7-b245-3555bc9270a3/dfk09i8-3c59ad88-5e16-4d9a-97df-df97ca1b719b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5MGE3NWI5LTk3ZTAtNDNmNy1iMjQ1LTM1NTViYzkyNzBhM1wvZGZrMDlpOC0zYzU5YWQ4OC01ZTE2LTRkOWEtOTdkZi1kZjk3Y2ExYjcxOWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.687zCQ9eMXj9uwJWrrFCNqR6Y4yW1Jpl1bpjfL0khv4" height="220vh style="flex: 1;" alt="GIF DNA">
-    
-    
-  </div>
+  
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990a75b9-97e0-43f7-b245-3555bc9270a3/dfk09i8-3c59ad88-5e16-4d9a-97df-df97ca1b719b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5MGE3NWI5LTk3ZTAtNDNmNy1iMjQ1LTM1NTViYzkyNzBhM1wvZGZrMDlpOC0zYzU5YWQ4OC01ZTE2LTRkOWEtOTdkZi1kZjk3Y2ExYjcxOWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.687zCQ9eMXj9uwJWrrFCNqR6Y4yW1Jpl1bpjfL0khv4" height="220vh" style="flex: 1;" alt="GIF DNA">
+</div>
 <!-- título -->
   <p style="text-align: center;">
   <a href="https://git.io/typing-svg">
