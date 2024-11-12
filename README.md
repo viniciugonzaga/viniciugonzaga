@@ -4,14 +4,12 @@
 
   <!-- Barra animada azul -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=42a5f5&height=120&section=header" alt="Barra animada azul claro" style="width: 100%;">
-
 </div>
+ <!-- dino -->
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px; ">
-  <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="420" alt="GIF DNA" margin-left: -200px >
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="420" alt="GIF DNA" style="margin: 0;">
 </div>
-
-
 
 
 <!-- título -->
