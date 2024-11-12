@@ -5,6 +5,7 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img src="https://cdn.gamedevmarket.net/wp-content/uploads/20201215050718/948b7dbf5c7e63d165542472cf0bb5e9.gif" height="220vh style="flex: 1;" alt="GIF DNA">
     <img src="https://64.media.tumblr.com/62efc78107700238cf040bf28b606aea/tumblr_navr79L3u31qi4ibzo1_500.gif" height="220vh" style="flex: 3;" alt="GIF T-Rex">
+     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a3953c1e-7a76-40c3-9071-814478e7ac2c/dcnjnl9-25798f98-fe4f-46be-b7f8-ebbc1a4fd264.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzOTUzYzFlLTdhNzYtNDBjMy05MDcxLTgxNDQ3OGU3YWMyY1wvZGNuam5sOS0yNTc5OGY5OC1mZTRmLTQ2YmUtYjdmOC1lYmJjMWE0ZmQyNjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hQz5eeWfPRUHEYzhC0NoHK-ojWt3fnJI1Yky_SQOI_g" height="220vh" style="flex: 3;" alt="GIF T-Rex">
   </div>
 <!-- título -->
   <p style="text-align: center;">
