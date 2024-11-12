@@ -3,7 +3,7 @@
 
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://cdn.gamedevmarket.net/wp-content/uploads/20201215050718/948b7dbf5c7e63d165542472cf0bb5e9.gif" style="flex: 1;" alt="GIF DNA">
+    <img src="https://cdn.gamedevmarket.net/wp-content/uploads/20201215050718/948b7dbf5c7e63d165542472cf0bb5e9.gif" height="220vh style="flex: 1;" alt="GIF DNA">
     <img src="https://64.media.tumblr.com/62efc78107700238cf040bf28b606aea/tumblr_navr79L3u31qi4ibzo1_500.gif" height="220vh" style="flex: 3;" alt="GIF T-Rex">
   </div>
 <!-- título -->
