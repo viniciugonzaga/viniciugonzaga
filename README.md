@@ -17,7 +17,7 @@
 
 
 <!-- título -->
- <img src="https://capsule-render.vercel.app/api?type=venom&height=284&color=0A74DA&text=welcome%20to%20my%20profile&textBg=false&fontColor=ffffff&animation=fadeIn&reversal=false&section=header&fontSize=35" alt="Barra animada azul claro">
+ <img src="https://capsule-render.vercel.app/api?type=venom&height=284&color=0A74DA&text=welcome%20to%20my%20profile&textBg=false&fontColor=ffffff&animation=fadeIn&reversal=false&section=header&fontSize=35" alt="Barra animada azul claro" height="220">
 
 
 
@@ -28,7 +28,7 @@
   <!-- Tecnologias -->
   <div style="margin-bottom: 20px;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=2559EC&width=435&lines=Learning+and+programming+languages%3A;.....................%C2%A0%40_%40" alt="Typing SVG" height="220">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=2559EC&width=435&lines=Learning+and+programming+languages%3A;.....................%C2%A0%40_%40" alt="Typing SVG" >
     </a>
   </div>
 
