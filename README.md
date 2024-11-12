@@ -3,7 +3,7 @@
 
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
- <iframe src="https://assets.pinterest.com/ext/embed.html?id=AUqI3k0ypSf0Jk-JiuYtIwu0HGhEnfdPvGpHZDO-R-o8vMGZWfjd094" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=AUqI3k0ypSf0Jk-JiuYtIwu0HGhEnfdPvGpHZDO-R-o8vMGZWfjd094"
   
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990a75b9-97e0-43f7-b245-3555bc9270a3/dfk09i8-3c59ad88-5e16-4d9a-97df-df97ca1b719b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5MGE3NWI5LTk3ZTAtNDNmNy1iMjQ1LTM1NTViYzkyNzBhM1wvZGZrMDlpOC0zYzU5YWQ4OC01ZTE2LTRkOWEtOTdkZi1kZjk3Y2ExYjcxOWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.687zCQ9eMXj9uwJWrrFCNqR6Y4yW1Jpl1bpjfL0khv4" height="320vh" style="flex: 1;" alt="GIF DNA">
 </div>
