@@ -3,7 +3,7 @@
 
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://i.pinimg.com/originals/72/86/da/7286da83fa1fffdf98a26a842970c36b.gif" height="210vh" style="flex: 1;" alt="GIF DNA">
+    <img src="https://pin.it/3LwJjqWC2" style="flex: 1;" alt="GIF DNA">
     <img src="https://64.media.tumblr.com/62efc78107700238cf040bf28b606aea/tumblr_navr79L3u31qi4ibzo1_500.gif" height="220vh" style="flex: 3;" alt="GIF T-Rex">
   </div>
 <!-- título -->
