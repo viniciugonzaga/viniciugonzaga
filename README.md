@@ -3,7 +3,7 @@
 <div style="width: 100%; background-color: #42a5f5; padding: 20px 0;">
 
   <!-- Barra animada azul -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42a5f5&height=120&section=header" alt="Barra animada azul claro" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=My%20Profile&fontSize=35&rotate=0&fontAlign=50&animation=fadeIn&fontColor=c0c0c0&section=header" style="width: 100%;">
 </div>
  <!-- dino -->
 
