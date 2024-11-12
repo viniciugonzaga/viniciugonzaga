@@ -3,7 +3,7 @@
 
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://art.pixilart.com/8b289ddb37119b7.gif" height="220vh style="flex: 1;" alt="GIF DNA">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/990a75b9-97e0-43f7-b245-3555bc9270a3/dfk09i8-3c59ad88-5e16-4d9a-97df-df97ca1b719b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk5MGE3NWI5LTk3ZTAtNDNmNy1iMjQ1LTM1NTViYzkyNzBhM1wvZGZrMDlpOC0zYzU5YWQ4OC01ZTE2LTRkOWEtOTdkZi1kZjk3Y2ExYjcxOWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.687zCQ9eMXj9uwJWrrFCNqR6Y4yW1Jpl1bpjfL0khv4" height="220vh style="flex: 1;" alt="GIF DNA">
     <img src="https://64.media.tumblr.com/62efc78107700238cf040bf28b606aea/tumblr_navr79L3u31qi4ibzo1_500.gif" height="220vh" style="flex: 3;" alt="GIF T-Rex">
      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a3953c1e-7a76-40c3-9071-814478e7ac2c/dcnjnl9-25798f98-fe4f-46be-b7f8-ebbc1a4fd264.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EzOTUzYzFlLTdhNzYtNDBjMy05MDcxLTgxNDQ3OGU3YWMyY1wvZGNuam5sOS0yNTc5OGY5OC1mZTRmLTQ2YmUtYjdmOC1lYmJjMWE0ZmQyNjQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hQz5eeWfPRUHEYzhC0NoHK-ojWt3fnJI1Yky_SQOI_g" height="220vh" style="flex: 3;" alt="GIF T-Rex">
   </div>
