@@ -153,7 +153,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=13F770&width=435&lines=thanks+for+watching!;%2B_%2B" alt="Typing SVG">
   </a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3EB489&height=120&section=header" alt="Barra animada azul claro">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=120&section=header" alt="Barra animada azul claro">
+
 
 </div>
 
