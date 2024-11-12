@@ -67,13 +67,7 @@
     </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank">
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-    </a>
-    <a href="https://www.gimp.org/" target="_blank">
-      <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    </a>
+    </a>   
   </div>
 
   <!-- Estatísticas e GIFs -->
