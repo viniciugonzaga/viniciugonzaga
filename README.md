@@ -7,9 +7,12 @@
 </div>
  <!-- dino -->
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-  <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="420" alt="GIF DNA" style="margin: 0;">
-</div>
+<p style="text-align: center;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="420" alt="GIF DNA">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 
 <!-- título -->
