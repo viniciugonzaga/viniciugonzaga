@@ -2,6 +2,8 @@
 <div style="text-align: center; margin: 0 auto; max-width: 1200px;">
 
   <!-- Seção de GIFs -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=021dfe&height=120&section=header" alt="Barra animada">
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="420vh" alt="GIF DNA">
 </div>
