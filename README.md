@@ -17,7 +17,7 @@
 
 
 <!-- título -->
- <img src="https://capsule-render.vercel.app/api?type=venom&height=284&color=gradient&text=welcome%20to%20my%20profile&textBg=false&fontColor=fffffffff&animation=fadeIn&reversal=false&section=header&fontSize=35" alt="Barra animada azul claro">
+ <img src="https://capsule-render.vercel.app/api?type=venom&height=284&color=0A74DA&text=welcome%20to%20my%20profile&textBg=false&fontColor=ffffff&animation=fadeIn&reversal=false&section=header&fontSize=35" alt="Barra animada azul claro">
 
 
 
