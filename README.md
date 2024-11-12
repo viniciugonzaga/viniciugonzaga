@@ -3,9 +3,8 @@
 
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvc3RoeHd1aHVoc3h6aGZvNDgyb3ZxNDE2ZHJiZmJvNGtuZmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif" height="210vh" style="flex: 1;" alt="GIF DNA">
+    <img src="https://i.pinimg.com/originals/72/86/da/7286da83fa1fffdf98a26a842970c36b.gif" height="210vh" style="flex: 1;" alt="GIF DNA">
     <img src="https://64.media.tumblr.com/62efc78107700238cf040bf28b606aea/tumblr_navr79L3u31qi4ibzo1_500.gif" height="220vh" style="flex: 3;" alt="GIF T-Rex">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvc3RoeHd1aHVoc3h6aGZvNDgyb3ZxNDE2ZHJiZmJvNGtuZmc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmunPY9JAIwfobtjgs/giphy.gif" height="210vh" style="flex: 1;" alt="GIF DNA">
   </div>
 <!-- título -->
   <p style="text-align: center;">
