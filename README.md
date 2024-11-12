@@ -4,7 +4,7 @@
   <!-- Seção de GIFs -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
     
- <img src="https://assets.pinterest.com/ext/embed.html?id=AUqI3k0ypSf0Jk-JiuYtIwu0HGhEnfdPvGpHZDO-R-o8vMGZWfjd094" height="320vh" style="flex: 1;" alt="GIF DNA">
+ <img src="https://i.pinimg.com/originals/44/ac/c6/44acc66ba8fb2f91b74333f632df31e2.gif" height="320vh" style="flex: 1;" alt="GIF DNA">
 
 
   
