@@ -16,19 +16,24 @@
   <strong>Desenvolvedor • Estudante de Tecnologia • Amante de Ciência e RPG</strong>
 </p>
 
----
+<!-- SEPARADOR PERSONALIZADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=B30000&height=2&section=header"/>
+</p>
 
-<hr style="border: 1px solid #b30000;">
-
-##  Sobre mim
+<!-- SOBRE MIM -->
+## 🔥 Sobre mim
 - Focado em **desenvolvimento backend e web**
-- Criador do projeto RPG inspirado em **ARK**, com genética, criaturas e sistemas
+- Criador do RPG inspirado em **ARK** (genética, criaturas e sistemas)
 - Sempre estudando **Java, Web, banco de dados e lógica avançada**
 - Gosto de estruturar sistemas, regras e mundos funcionais
 
-<hr style="border: 1px solid #b30000;">
+<!-- SEPARADOR RUNAS -->
+<p align="center" style="font-size:18px;">
+  ✦ ✦ ✦
+</p>
 
-##  Tecnologias que uso
+## 🛠️ Tecnologias que uso
 
 ### **Linguagens**
 <p align="left">
@@ -40,18 +45,24 @@
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,git,github" />
 </p>
 
-<hr style="border: 1px solid #b30000;">
+<!-- SEPARADOR RED LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=B30000&height=2&section=footer"/>
+</p>
 
-##  Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=radical&bg_color=000000&title_color=b30000&icon_color=b30000&text_color=ffffff"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciugonzaga&layout=compact&theme=radical&bg_color=000000&title_color=b30000&icon_color=b30000&text_color=ffffff"/>
 </div>
 
-<hr style="border: 1px solid #b30000;">
+<!-- SEPARADOR COM ÍCONE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0F0F0F&height=80&section=header"/>
+</p>
 
-##Conquistas & Atividade
+## 🏆 Conquistas & Atividade
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
@@ -64,9 +75,12 @@
   </picture>
 </div>
 
-<hr style="border: 1px solid #b30000;">
+<!-- SEPARADOR SUTIL -->
+<p align="center">
+  ✧ ───── • ✧ • ───── ✧
+</p>
 
-## Minhas redes
+## 🌐 Minhas redes
 <p align="left">
   <a href="https://github.com/viniciugonzaga"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -74,12 +88,10 @@
   <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
-<hr style="border: 1px solid #b30000;">
-
+<!-- FINAL -->
 <p align="center">
   <strong style="color:#b30000;">Obrigado por visitar! </strong>
 </p>
-
 
 
 
