@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:#b30000;">👋 Olá, eu sou o Vinícius Gonzaga</span>
+  <span style="color:#b30000;"> Olá, eu sou o Vinícius Gonzaga</span>
 </h1>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ---
 
-## 🔥 Sobre mim
-- 🎯 Focado em **desenvolvimento backend e web**
-- 🧪 Criador do projeto RPG inspirado em **ARK**, com genética, criaturas e sistemas
-- 📚 Sempre estudando **Java, Web, banco de dados, backend e lógicas mais profundas**
-- 🧩 Gosto de estruturar projetos, regras e criar sistemas funcionais
+##  Sobre mim
+- Focado em **desenvolvimento backend e web**
+-  Criador do projeto RPG inspirado em **ARK**, com genética, criaturas e sistemas
+-  Sempre estudando **Java, Web, banco de dados, backend e lógicas mais profundas**
+-  Gosto de estruturar projetos, regras e criar sistemas funcionais
 
 ---
 
