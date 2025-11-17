@@ -20,7 +20,7 @@
 
 <hr style="border: 1px solid #b30000;">
 
-## 🔥 Sobre mim
+##  Sobre mim
 - Focado em **desenvolvimento backend e web**
 - Criador do projeto RPG inspirado em **ARK**, com genética, criaturas e sistemas
 - Sempre estudando **Java, Web, banco de dados e lógica avançada**
@@ -28,7 +28,7 @@
 
 <hr style="border: 1px solid #b30000;">
 
-## 🚀 Tecnologias que uso
+##  Tecnologias que uso
 
 ### **Linguagens**
 <p align="left">
@@ -37,7 +37,7 @@
 
 ### **IDE / Ferramentas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,netbeans,eclipse,idea,androidstudio,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,git,github" />
 </p>
 
 <hr style="border: 1px solid #b30000;">
