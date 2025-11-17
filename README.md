@@ -57,13 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
 
-<!-- Temas vermelhos que você pode testar:
-radical
-dracula
-discord
-matrix
--->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake-dark.svg">
@@ -73,7 +66,7 @@ matrix
 
 <hr style="border: 1px solid #b30000;">
 
-## 🌐 Minhas redes
+## Minhas redes
 <p align="left">
   <a href="https://github.com/viniciugonzaga"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
@@ -84,7 +77,7 @@ matrix
 <hr style="border: 1px solid #b30000;">
 
 <p align="center">
-  <strong style="color:#b30000;">Obrigado por visitar! 🚀</strong>
+  <strong style="color:#b30000;">Obrigado por visitar! </strong>
 </p>
 
 
