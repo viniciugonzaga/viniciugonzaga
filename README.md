@@ -45,6 +45,14 @@
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio,git,github" />
 </p>
 
+##  Minhas redes
+<p align="left">
+  <a href="https://github.com/viniciugonzaga"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
 <!-- SEPARADOR RED LINE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=B30000&height=2&section=footer"/>
@@ -78,14 +86,6 @@
 <!-- SEPARADOR SUTIL -->
 <p align="center">
   ✧ ───── • ✧ • ───── ✧
-</p>
-
-##  Minhas redes
-<p align="left">
-  <a href="https://github.com/viniciugonzaga"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 <!-- FINAL -->
