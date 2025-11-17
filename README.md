@@ -4,7 +4,12 @@
 </p>
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7342C&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Vin%C3%ADcius+Gonzaga" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg">
+   <img 
+     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B30000&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Vin%C3%ADcius+Gonzaga"
+     alt="Typing SVG"
+   />
+ </a>
 </h1>
 
 <p align="center">
@@ -13,42 +18,51 @@
 
 ---
 
-##  Sobre mim
-- Focado em **desenvolvimento backend e web**
--  Criador do projeto RPG inspirado em **ARK**, com genética, criaturas e sistemas
--  Sempre estudando **Java, Web, banco de dados, backend e lógicas mais profundas**
--  Gosto de estruturar projetos, regras e criar sistemas funcionais
+<hr style="border: 1px solid #b30000;">
 
----
+## 🔥 Sobre mim
+- Focado em **desenvolvimento backend e web**
+- Criador do projeto RPG inspirado em **ARK**, com genética, criaturas e sistemas
+- Sempre estudando **Java, Web, banco de dados e lógica avançada**
+- Gosto de estruturar sistemas, regras e mundos funcionais
+
+<hr style="border: 1px solid #b30000;">
 
 ## 🚀 Tecnologias que uso
 
 ### **Linguagens**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,react,php" />
 </p>
 
 ### **IDE / Ferramentas**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,netbeans,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,netbeans,eclipse,idea,androidstudio,git,github" />
 </p>
 
----
+<hr style="border: 1px solid #b30000;">
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciugonzaga&show_icons=true&theme=radical&bg_color=000000&title_color=b30000&icon_color=b30000&text_color=ffffff"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciugonzaga&layout=compact&theme=radical&bg_color=000000&title_color=b30000&icon_color=b30000&text_color=ffffff"/>
 </div>
 
----
+<hr style="border: 1px solid #b30000;">
 
-## Conquistas & Atividade
+##Conquistas & Atividade
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </div>
+
+<!-- Temas vermelhos que você pode testar:
+radical
+dracula
+discord
+matrix
+-->
 
 <div align="center">
   <picture>
@@ -57,7 +71,7 @@
   </picture>
 </div>
 
----
+<hr style="border: 1px solid #b30000;">
 
 ## 🌐 Minhas redes
 <p align="left">
@@ -67,12 +81,11 @@
   <a href="https://x.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
----
+<hr style="border: 1px solid #b30000;">
 
 <p align="center">
   <strong style="color:#b30000;">Obrigado por visitar! 🚀</strong>
 </p>
-
 
 
 
