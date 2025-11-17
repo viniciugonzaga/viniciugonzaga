@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color:#b30000;"> Olá, eu sou o Vinícius Gonzaga</span>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7342C&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Vin%C3%ADcius+Gonzaga" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
