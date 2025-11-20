@@ -73,7 +73,7 @@
 ##  Conquistas & Atividade
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=dark_machine&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&bg_color=000000&text_color=ffffff&title_color=b30000&icon_color=b30000&border_color=000000" />
 </div>
 
 <div align="center">
@@ -88,11 +88,14 @@
   ✧ ───── • ✧ • ───── ✧
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciugonzaga&repo=siteark&theme=radical&bg_color=000000&title_color=b30000&icon_color=b30000&text_color=ffffff&hide_border=true" />
+</p>
+
 <!-- FINAL -->
 <p align="center">
   <strong style="color:#b30000;">Obrigado por visitar! </strong>
 </p>
-
 
 
 
