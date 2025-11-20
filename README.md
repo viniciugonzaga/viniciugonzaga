@@ -72,7 +72,6 @@
 
 ##  Conquistas & Atividade
 
-
 <!-- SEPARADOR SUTIL -->
 <p align="center">
   ✧ ───── • ✧ • ───── ✧
@@ -86,6 +85,11 @@
 <p align="center">
   <strong style="color:#b30000;">Obrigado por visitar! </strong>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff0000&section=footer" alt="Onda Animada Final"/>
+</p>
+
 
 
 
