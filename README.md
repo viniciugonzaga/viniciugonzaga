@@ -72,8 +72,18 @@
 
 ##  Conquistas & Atividade
 
+<p align="center">
+  <img src="https://64.media.tumblr.com/c5c8f8d8c279313271d441113b19280d/tumblr_nf1e4g1vU41tj124lo1_500.gifv" width="450" />
+</p>
+
+### 🔥 Recorde de Contribuição Contínua
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciugonzaga&theme=dark_machine&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&bg_color=000000&text_color=ffffff&title_color=b30000&icon_color=b30000&border_color=000000" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=viniciugonzaga&theme=dark&hide_border=true&background=000000&ring=b30000&fire=b30000&currstreak=ffffff&dates=ffffff&side_main=b30000&side_border=000000" />
+</div>
+
+### 📈 Gráfico de Atividade Anual
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/activities?username=viniciugonzaga&theme=radical&bg_color=000000&title_color=b30000&icon_color=b30000&text_color=ffffff&line_chart=true" />
 </div>
 
 <div align="center">
@@ -96,8 +106,5 @@
 <p align="center">
   <strong style="color:#b30000;">Obrigado por visitar! </strong>
 </p>
-
-
-
 
 
