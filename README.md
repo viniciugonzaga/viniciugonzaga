@@ -72,6 +72,15 @@
 
 ##  Conquistas & Atividade
 
+<div align="center">
+<picture>
+<!-- Usa a versão DARK (com o vermelho escuro) no modo escuro -->
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake-dark.svg">
+<!-- Versão padrão (light) -->
+<img alt="Animação da cobra do GitHub" src="https://www.google.com/search?q=https://raw.githubusercontent.com/viniciugonzaga/viniciugonzaga/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 <!-- SEPARADOR SUTIL -->
 <p align="center">
   ✧ ───── • ✧ • ───── ✧
